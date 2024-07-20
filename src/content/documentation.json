@@ -1,0 +1,42 @@
+{
+  "title": "Documentation",
+  "sections": [
+    {
+      "title": "Home",
+      "link": "/"
+    },
+    {
+      "title": "Getting Started",
+      "link": "/getting-started",
+      "subsections": [
+        {
+          "title": "Installation",
+          "link": "/getting-started/installation"
+        },
+        {
+          "title": "Usage",
+          "link": "/getting-started/usage"
+        }
+      ]
+    },
+    {
+      "title": "API Reference",
+      "link": "/api",
+      "subsections": [
+        {
+          "title": "Authentication",
+          "link": "/api/authentication"
+        },
+        {
+          "title": "Endpoints",
+          "link": "/api/endpoints"
+        }
+      ]
+    },
+    {
+      "title": "Examples",
+      "link": "/examples"
+    }
+    
+  ]
+}
